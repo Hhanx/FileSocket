@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileSocket", "FileSocket\FileSocket.vcxproj", "{418397FA-88D0-495C-91F8-497F12ED6CF7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "局域网传输工具", "局域网传输工具\局域网传输工具.vdproj", "{548C12D7-4F54-4AAE-914A-59278A488CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Debug|x64.ActiveCfg = Debug|x64
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Debug|x64.Build.0 = Debug|x64
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Debug|x86.ActiveCfg = Debug|Win32
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Debug|x86.Build.0 = Debug|Win32
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Release|x64.ActiveCfg = Release|x64
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Release|x64.Build.0 = Release|x64
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Release|x86.ActiveCfg = Release|Win32
+		{418397FA-88D0-495C-91F8-497F12ED6CF7}.Release|x86.Build.0 = Release|Win32
+		{548C12D7-4F54-4AAE-914A-59278A488CCB}.Debug|x64.ActiveCfg = Debug
+		{548C12D7-4F54-4AAE-914A-59278A488CCB}.Debug|x86.ActiveCfg = Debug
+		{548C12D7-4F54-4AAE-914A-59278A488CCB}.Release|x64.ActiveCfg = Release
+		{548C12D7-4F54-4AAE-914A-59278A488CCB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5621C5A9-D707-4A40-8D4E-B9D1870D26EB}
+	EndGlobalSection
+EndGlobal
